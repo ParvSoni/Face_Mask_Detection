@@ -16,13 +16,9 @@ The dataset was split into training, validation, and testing sets to train and e
 
 After successfully training the face mask detection model, I integrated it with Streamlit to create a user-friendly and interactive web application. Streamlit allowed me to design a simple yet powerful interface where users could upload images, and the model would instantly predict whether the faces in those images were masked or unmasked. The integration also included informative visualizations to enhance the user experience.
 
-## Deployment:
-
-The entire project, including the trained CNN model and the Streamlit web application, was deployed to a cloud platform for accessibility. This deployment allowed users to access the face mask detection system through a web browser, making it convenient for a wide range of applications.
-
 ## Conclusion:
 
-This project demonstrated the feasibility of building a custom CNN model for face mask detection without relying on pre-trained models. The integration of Streamlit facilitated the development of an end-to-end solution, making it user-friendly and accessible. The project contributes to the ongoing efforts in leveraging deep learning and web technologies for real-world applications, especially in the context of public health and safety.
+This project demonstrated the feasibility of building a custom CNN model for face mask detection without relying on pre-trained models. The integration of Streamlit facilitated the development of an end-to-end solution, making it user-friendly. The project contributes to the ongoing efforts in leveraging deep learning and web technologies for real-world applications, especially in the context of public health and safety.
 
 # Video Presentation:-
 [Project Recording,.webm](https://github.com/ParvSoni/Face_Mask_Detection/assets/123165567/15b394c9-d52e-4fea-9857-cb373d822006)
